@@ -1,3 +1,29 @@
+# iNotebook
+
+About the Project
+
+iNotebook is an MERN app designed for note-taking, organizing, task management, and archiving. best for taking notes & team collaboration
+
+Using iNotebook, you can store everything from personal thoughts and ideas to business projects, and know they’re always safe and secure, and easily accessible whenever you need them.
+
+# Softwares Used
+
+VSCode (Frontend)
+
+# Technologies Used
+
+Mongo DB
+
+Express
+
+React JS
+
+Node JS
+
+# Video of Complete Project
+
+https://www.screencast.com/users/KanishkaLamba/folders/Capture/media/d8e9abb5-f1ad-49de-a0ee-d9325b9dee53
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
